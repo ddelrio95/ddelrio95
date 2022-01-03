@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dario del Rio
-- 👀 I’m interested in Web and Deep Learning
+- 👀 I’m interested in Web Development and Deep Learning
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me d.delriodirect@gmail.com
