@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dario del Rio
 - 👀 I'm passionate about Data Engineering, Data Science, and Machine Learning
 - 🌱 I'm currently working as a Data Analyst and transitioning into Data Engineering
-- 💞️ I’m open to collaborating on data pipelines, analytics projects, and ML initiatives
+- 👨‍💻 I’m open to collaborating on data pipelines, analytics projects, and ML initiatives
+- 📫 How to reach me: dariodelrio14@gmail.com
   
 <!---
 ddelrio95/ddelrio95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
